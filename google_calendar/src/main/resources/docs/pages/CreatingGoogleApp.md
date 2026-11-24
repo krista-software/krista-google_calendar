@@ -146,8 +146,8 @@ Login to the Google Cloud Console at [https://console.cloud.google.com/getting-s
 1. **Configure Extension**: Use the Client ID and Client Secret in your Google Calendar Extension setup
 2. **Set Email**: Configure the email address for service account authentication
 3. **Test Connection**: Use the extension's test connection feature to verify setup
-4. **Complete Authentication**: Follow the [Authentication](Authentication.md) guide for OAuth flow details
-
+4. **Complete Authentication**: Follow the [Authentication](pages/Authentication.md) guide for OAuth flow details
+;
 ## Troubleshooting
 
 ### Common Setup Issues

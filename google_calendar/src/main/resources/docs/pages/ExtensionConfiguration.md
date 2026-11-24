@@ -18,7 +18,7 @@ The Google Calendar Extension requires proper configuration of OAuth 2.0 credent
 
 Before configuring the extension, you must create OAuth 2.0 credentials in Google Cloud Console:
 
-1. Follow the [Creating Google App](CreatingGoogleApp.md) guide to set up your Google Cloud project
+1. Follow the [Creating Google App](pages/CreatingGoogleApp.md) guide to set up your Google Cloud project
 2. Enable the Google Calendar API
 3. Create OAuth 2.0 credentials (Client ID and Client Secret)
 4. Configure authorized redirect URIs

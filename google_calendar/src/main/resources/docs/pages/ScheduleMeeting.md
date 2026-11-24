@@ -246,10 +246,10 @@ Result: Organization-wide calendar event with proper visibility
 
 ## Related Catalog Requests
 
-- [Cancel Event](CancelEvent.md) - Cancel scheduled meetings
-- [Add Attendees](AddAttendees.md) - Add attendees to existing meetings
-- [Get Event](GetEvent.md) - Retrieve meeting details
-- [Get Next Upcoming Meetings](GetNextUpcomingMeetings.md) - View scheduled meetings
+- [Cancel Event](pages/CancelEvent.md) - Cancel scheduled meetings
+- [Add Attendees](pages/AddAttendees.md) - Add attendees to existing meetings
+- [Get Event](pages/GetEvent.md) - Retrieve meeting details
+- [Get Next Upcoming Meetings](pages/GetNextUpcomingMeetings.md) - View scheduled meetings
 
 ## Technical Implementation
 

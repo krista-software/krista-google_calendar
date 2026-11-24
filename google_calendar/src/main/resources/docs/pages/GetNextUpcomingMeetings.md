@@ -232,10 +232,10 @@ Result: User stays informed of immediate commitments
 
 ## Related Catalog Requests
 
-- [Get Event](GetEvent.md) - Get detailed information for specific events
-- [Get All Unaccepted Events](GetAllUnacceptedEvents.md) - Find pending invitations
-- [Schedule Meeting](ScheduleMeeting.md) - Create new meetings that will appear in upcoming list
-- [Accept Invitation](AcceptInvitation.md) - Respond to upcoming meeting invitations
+- [Get Event](pages/GetEvent.md) - Get detailed information for specific events
+- [Get All Unaccepted Events](pages/GetAllUnacceptedEvents.md) - Find pending invitations
+- [Schedule Meeting](pages/ScheduleMeeting.md) - Create new meetings that will appear in upcoming list
+- [Accept Invitation](pages/AcceptInvitation.md) - Respond to upcoming meeting invitations
 
 ## Technical Implementation
 
